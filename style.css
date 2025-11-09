@@ -170,6 +170,12 @@ nav,
   background-color: white;
   color: #242424;
 }
+#personal-logo {
+  display: flex;
+  align-items: center;
+}
+
+
 /* 
 
   LANDING PAGE 
